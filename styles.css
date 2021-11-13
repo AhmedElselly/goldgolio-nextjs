@@ -66,3 +66,7 @@
   text-decoration: none;
   color: #000;
 }
+
+.form-control {
+  border-radius: 8px;
+}

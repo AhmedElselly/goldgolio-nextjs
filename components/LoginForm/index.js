@@ -7,6 +7,7 @@ const LoginForm = () => {
       <div className='login-hero'>
         <div className='login-container'>
           <PersonIcon className='login-logo'/>
+          
         </div>
         <h3 className='login-title'>Login into your account</h3>
       </div>
