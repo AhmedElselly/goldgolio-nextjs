@@ -70,3 +70,38 @@
 .form-control {
   border-radius: 8px;
 }
+
+.or {
+  text-align: center;
+  margin: 33px;
+}
+
+.facebook-login {
+  width: 100%;
+  background-color: #4A61A8;
+  color: #fff;
+  height: 64px;
+  border: none;
+  border-radius: 8px;
+}
+
+.google-login {
+  width: 100%;
+  background-color: #53A0F4;
+  color: #fff;
+  height: 64px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.google-icon {
+  background-color: #fff;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding: 5px 5px 0 5px;
+}
