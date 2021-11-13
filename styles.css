@@ -1,0 +1,68 @@
+.body {
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+
+.header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Login Page */
+
+.login-form {
+  margin: 94px auto;
+  width: 50%;
+}
+
+.login-btn {
+  margin-top: 38px;
+  width: 100%;
+}
+
+.password {
+  margin-top: 20px;
+}
+
+.login-container {
+  width: 116px;
+  height: 116px;
+  border-radius: 50%;
+  background-color: #DCDCDC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.login-logo {
+  transform: scale(1.8);
+}
+
+.login-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 39px;
+}
+
+.login-title {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 24px;
+}
+
+.forgot-password {
+  text-decoration: none;
+  color: #000;
+}
